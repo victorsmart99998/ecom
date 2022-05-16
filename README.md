@@ -1,4 +1,5 @@
-### django e-commerce website
+# django e-commerce website
+
 
 ### Cloning and starting project
 Online store with paypal payments intergration and guest user shopping,still on process, soon to be deployed
